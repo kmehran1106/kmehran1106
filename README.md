@@ -1,4 +1,4 @@
-### <div align="center">I'm Mehran, a Software Engineer working from Bangladesh from 2017</div>
+### <div align="center">I'm Mehran, a Software Engineer working from Bangladesh since 2017</div>
 
 
 - 🔭 I’ve worked with Python, JavaScript and related frameworks
